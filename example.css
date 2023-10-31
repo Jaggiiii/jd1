@@ -1,0 +1,91 @@
+h1{
+  text-align: left;
+  color: black;
+}
+.top{
+  margin-left: 10em;
+}
+button{
+background-color: blue;
+border: 0px;
+border-radius: 3px;
+width: 22px;
+height: 23px;
+color: white;
+}
+.highlight{
+  font-size: 32px;
+  color: black;
+}
+.highlight2{
+  font-size: 30px;
+  color: darkgrey;
+}
+.b{
+  background: white;
+  width: 61%;
+  border-radius:  2%;
+  padding: 1em;
+}
+p{
+  font-size: 24px;
+  color: grey;
+}
+.mark_webber{
+  padding: 6px;
+  background-color: rgba(173, 216, 230);
+  height: 120px;
+  width: 745px;
+  border-radius: 9px;
+  /* color: red; */
+}
+.angela_grey{
+  padding: 6px;
+  background-color: rgba(173, 216, 230);
+  height: 120px;
+  width: 745px;
+  border-radius: 9px;
+}
+.msg{
+  height: 100px;
+  width: 740px;
+  color: grey;
+  padding: 3px;
+  background-color: white;
+  border-radius: 10px;
+}
+.jacob{
+  padding: 6px;
+  background-color: rgba(173, 216, 230);
+  height: 120px;
+  width: 745px;
+  border-radius: 9px;
+}
+.nathan{
+  padding: 6px;
+  background-color: rgba(173, 216, 230);
+  height: 120px;
+  width: 745px;
+  border-radius: 9px;
+}
+.j1{
+  float: left;
+  width: 12%;
+  padding: 12px;
+  position: relative;
+  object-fit: cover;
+}
+.j2{
+  float: right;
+  width: 12%;
+  padding: 12px;
+  position: relative;
+  object-fit: cover;
+}
+.rizk{
+  padding: 6px;
+  background-color: rgba(173, 216, 230);
+  height: 230px;
+  width: 745px;
+  border-radius: 9px;
+}
